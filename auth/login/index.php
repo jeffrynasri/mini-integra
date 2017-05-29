@@ -24,7 +24,7 @@ include_once "../../header.php";
 </form>
 
  <?php
- 	if(isset($_POST['login'])){
+ 	if($_POST){
 	 	include '../../config/database.php';
 	 	include_once '../../objects/mahasiswa.php';
 	 	
