@@ -16,7 +16,7 @@ include_once "header.php";
 </center>
 
 <ul>
-  <li><a href="ambil/kuliah/">/ambil/kuliah</a></li>
+  <li><a href="kuliah/ambil/">/kuliah/ambil/</a></li>
   <li><a href="kuliah/">/kuliah</a></li>
 </ul>
 

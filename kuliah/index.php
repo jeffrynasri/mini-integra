@@ -26,6 +26,9 @@ $db = $database->getConnection();
 
 <?php
 
+
+    //echo $_SERVER['SERVER_NAME'];
+    echo $_SERVER['REQUEST_URI'];
 // if the form was submitted
 if($_GET){
   
